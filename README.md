@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A responsive personal portfolio website showcasing my skills, projects, and experience as a Frontend Developer.
+A responsive personal portfolio website showcasing my skills, projects, and experience as a Software Engineer.
 
 ## Features
 
